@@ -8,7 +8,8 @@
 ## 🚀 About Me  
 I’m a data engineer with 10+ years of experience in building things that:  
 - Move data from point A to point B (sometimes with a detour through C, D, and Kafka).  
-- Make sense of *petabytes* of data without using ... Skynet (ref: Terminator franchise, created by Cyberdyne Systems).  
+- Make sense of *petabytes* of data without using ... Skynet ( :skull: )
+.  
 - Turn messy lakes into beautiful, queryable, and secure data platforms.  
 
 Currently working at **Mercedes-Benz AG** on customer data platforms.  
