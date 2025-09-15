@@ -30,7 +30,7 @@ Before that: trivago, Shopback, startups, corporates — if it has code, I’ve 
 ---
 
 ## 🎓 Education  
-- Master of Computer Science – Heilbronn University 🇩🇪  
+- Master of Computer Science – Heilbronn Hochschule 🇩🇪  
 - Bachelor of Computer Science – Ho Chi Minh University of Technology 🇻🇳  
 - Thesis topics: NLP, Computer Vision, and the art of surviving research with minimum sleep.  
 
